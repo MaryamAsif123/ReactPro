@@ -1,18 +1,18 @@
-.container{
-    margin: 40px auto;
-    background-color: rgb(102, 205, 145);
-    padding: 15px;
-    border-radius: 30px;
-    width: 30%;
+.container {
+  margin: 40px auto;
+  background-color: rgb(102, 205, 145);
+  padding: 15px;
+  border-radius: 30px;
+  width: 30%;
 }
-.con2{
-    width: 30%;
+.con2 {
+  width: 30%;
   margin: 40px auto;
   background-color: #dc8888;
   padding: 15px;
   border-radius: 30px;
 }
-.btnstyle{
+.btnstyle {
   background-color: #cd3030;
   border: none;
   border-radius: 30%;
@@ -20,13 +20,12 @@
   margin-left: 10px;
   color: white;
   font-size: 18px;
-
 }
-.btns{
-    background-color: #177420;
-    border: none;
-    border-radius: 30%;
-    padding-bottom: 5px;
-    margin-left: 10px;
-    color: white;
-  }
+.btns {
+  background-color: #177420;
+  border: none;
+  border-radius: 30%;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  color: white;
+}

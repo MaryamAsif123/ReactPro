@@ -1,14 +1,14 @@
-input[type=text] {
-    width: 33%;
-    padding: 12px 20px;
-    margin: 8px auto;
-    border-radius: 40px;
-    box-sizing: border-box;
-    border: 3px solid #04AA6D;
-    outline: none;
-  }
-  .btn{
-  background-color: #04AA6D;
+input[type="text"] {
+  width: 33%;
+  padding: 12px 20px;
+  margin: 8px auto;
+  border-radius: 40px;
+  box-sizing: border-box;
+  border: 3px solid #04aa6d;
+  outline: none;
+}
+.btn {
+  background-color: #04aa6d;
   border: none;
   border-radius: 40px;
   color: white;
@@ -16,4 +16,4 @@ input[type=text] {
   text-decoration: none;
   margin: 4px 2px;
   cursor: pointer;
-  }
+}
